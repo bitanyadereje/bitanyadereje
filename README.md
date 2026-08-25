@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC1CC,100:C2185B&height=200&section=header&text=Bitanya%20Dereje&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
+<img src="avatar_circle.png" width="140" height="140" alt="Bitanya Dereje"/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=D6336C&center=true&vCenter=true&width=600&lines=Building+APIs+with+.NET%2C+FastAPI+%26+NestJS;Training+models+with+PyTorch+%26+TensorFlow;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
 </a>
