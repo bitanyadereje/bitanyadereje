@@ -23,6 +23,16 @@
 
 <br clear="right"/>
 
+## 💌 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D6336C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bitanya-dereje-5a4592334/)
+[![Telegram](https://img.shields.io/badge/Telegram-EC407A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bithaniyaa)
+[![Email](https://img.shields.io/badge/Email-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bithanyaa.dereje@gmail.com)
+
+</div>
+
 ## 💻 Tech Stack
 
 <div align="center">
